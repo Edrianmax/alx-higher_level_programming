@@ -1,1 +1,1 @@
-Write a Shell script that runs Python code.
+Complete this source code in order to print the integer stored in the variable number
