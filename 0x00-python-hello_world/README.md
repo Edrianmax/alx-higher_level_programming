@@ -1,1 +1,1 @@
-Complete this source code in order to print the integer stored in the variable number
+Complete the source code in order to print the float stored in the variable
