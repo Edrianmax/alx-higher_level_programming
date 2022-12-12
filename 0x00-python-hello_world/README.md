@@ -1,1 +1,1 @@
-Complete the source code in order to print the float stored in the variable
+Complete this source code in order to print 3 times a string stored in the variable str
