@@ -1,1 +1,1 @@
-Complete this source code in order to print 3 times a string stored in the variable str
+Complete this source code to print Welcome to Holberton School!
